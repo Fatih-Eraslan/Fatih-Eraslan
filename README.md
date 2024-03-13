@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fatih-Eraslan
 -  I’m interested in soft ware
 -  I’m currently learning software
--  How to reach me ...
+-  How to reach me @fatihaslan3444m
 
 
 <!---
